@@ -1,0 +1,40 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+.header{
+background-color: #123458;
+}
+.navbar{
+	background-color: #59af4f;
+}
+.left-side{
+	background-color: red;
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.main-side{
+	background-color:pink;
+	display: inline-block;
+	text-align: center;
+	width: 50%;
+	height: 100%;
+	float: left;
+
+}
+.right-side{
+background-color: yellow;
+width: 25%;
+height: 100%;
+float: left;
+
+}
+.clear.fix{
+	float: both;
+}
+.footer{
+	color: white;
+	text-align: center;
+background-color:#0022aa;
+}
